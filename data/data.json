@@ -1,7 +1,7 @@
 [
-  { "title":"Apple", "icon":"bi-apple", "color":"bg-red", "link":"#" },
-  { "title":"Banana", "icon":"bi-emoji-smile", "color":"bg-orange", "link":"#" },
-  { "title":"Orange", "icon":"bi-sun", "color":"bg-orange", "link":"#" },
-  { "title":"Carrot", "icon":"bi-flower1", "color":"bg-green", "link":"#" },
-  { "title":"Spinach", "icon":"bi-leaf", "color":"bg-blue", "link":"#" }
+  { "title":"Apple", "icon":"bi-apple", "color":"bg-red", "link":"story.html?id=story1" },
+  { "title":"Banana", "icon":"bi-emoji-smile", "color":"bg-orange", "link":"story.html?id=story2" },
+  { "title":"Orange", "icon":"bi-sun", "color":"bg-orange", "link":"story.html?id=story3" },
+  { "title":"Carrot", "icon":"bi-flower1", "color":"bg-green", "link":"story.html?id=story4" },
+  { "title":"Spinach", "icon":"bi-leaf", "color":"bg-blue", "link":"story.html?id=story5" }
 ]
