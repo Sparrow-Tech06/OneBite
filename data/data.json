@@ -1,37 +1,7 @@
 [
-  {
-    "title": "Apple",
-    "type": "fruit",
-    "icon": "bi-apple",
-    "color": "bg-red",
-    "link": "#"
-  },
-  {
-    "title": "Banana",
-    "type": "fruit",
-    "icon": "bi-emoji-smile",
-    "color": "bg-orange",
-    "link": "#"
-  },
-  {
-    "title": "Orange",
-    "type": "fruit",
-    "icon": "bi-sun",
-    "color": "bg-orange",
-    "link": "#"
-  },
-  {
-    "title": "Carrot",
-    "type": "veg",
-    "icon": "bi-flower1",
-    "color": "bg-green",
-    "link": "#"
-  },
-  {
-    "title": "Spinach",
-    "type": "veg",
-    "icon": "bi-leaf",
-    "color": "bg-blue",
-    "link": "#"
-  }
+  { "title":"Apple", "icon":"bi-apple", "color":"bg-red", "link":"#" },
+  { "title":"Banana", "icon":"bi-emoji-smile", "color":"bg-orange", "link":"#" },
+  { "title":"Orange", "icon":"bi-sun", "color":"bg-orange", "link":"#" },
+  { "title":"Carrot", "icon":"bi-flower1", "color":"bg-green", "link":"#" },
+  { "title":"Spinach", "icon":"bi-leaf", "color":"bg-blue", "link":"#" }
 ]
